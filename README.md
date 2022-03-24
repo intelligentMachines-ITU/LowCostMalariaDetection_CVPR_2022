@@ -1,4 +1,3 @@
-# LowCostMalariaDetection_CVPR_2022
 # Towards Low-Cost and Efficient Malaria Detection
 In this project we tried to make malaria detection easily possible at low cost. We present M5 Dataset which is the first ever dataset that is across microscopes and across magnifications.
 ## Dataset Details
