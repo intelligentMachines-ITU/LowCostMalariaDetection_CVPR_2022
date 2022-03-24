@@ -19,7 +19,7 @@ In the above link you should find M5_Dataset folder and in the folder you will f
 ### Visualizing the Annotations
 In order to visualize the annotations, you can pick some sample images and their annotations from the dataset and run the file <a href = "https://github.com/intelligentMachines-ITU/LowCostMalariaDetection_CVPR_2022/blob/main/Plot_Annotationss.ipynb">Plot_Annotationss.ipynb</a> on them.
 You should follow the following steps:
-To run the visualization code, you need the following libraries:
+<br>To run the visualization code, you need the following libraries:
 <ul><li>lxml</li>
   <li>cv2 (opencv-python)</li>
   </ul>
@@ -30,3 +30,5 @@ To run the visualization code, you need the following libraries:
     You should pick some images from the dataset and their corresponding annotations. Remember that the images and their annotations have the same names with different extensions. Put the images and annotations in the folders that you just created.
   <b><li>Update the paths</li></b>
   Update the paths in the "Plot_Annotationss.ipynb" file. You will find the path variables in the third cell of the notebook.
+  <b><li>Run All the Cells</li></b>
+  Just run all the cells and you will find the resultant images with plotted color coded boundary boxes. 
