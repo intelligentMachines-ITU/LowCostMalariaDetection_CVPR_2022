@@ -33,14 +33,20 @@ You should follow the following steps:
   <b><li>Run All the Cells</li></b></ol>
   Just run all the cells and you will find the resultant images with plotted color coded boundary boxes in the results folder that you created. In case the code runs well and you don't see your resultant images in the results folder, check the paths variable again.
   
-  ### Citation
+  ## Citation
   If you are using our dataset, please cite this publication.<br>
-  <i>Sultani, W., Nawaz, W., Javed, S., Danish, M. S., Saadia, A., & Ali, M. (2021). Towards Low-Cost and Efficient Malaria Detection. arXiv preprint arXiv:2111.13656.</i>
-  <br>
-  BibTeX:<br>
-  @article{sultani2021towards,
+ <div class="snippet-clipboard-content position-relative overflow-auto" data-snippet-clipboard-copy-content=" @article{sultani2021towards,
   title={Towards Low-Cost and Efficient Malaria Detection},
   author={Sultani, Waqas and Nawaz, Wajahat and Javed, Syed and Danish, Muhammad Sohail and Saadia, Asma and Ali, Mohsen},
   journal={arXiv preprint arXiv:2111.13656},
   year={2021}
+}"><pre><code> @article{sultani2021towards,
+  title = {Towards Low-Cost and Efficient Malaria Detection},
+  author = {Sultani, Waqas and Nawaz, Wajahat and Javed, Syed and Danish, Muhammad Sohail and Saadia, Asma and Ali, Mohsen},
+  journal = {arXiv preprint arXiv:2111.13656},
+  year = {2021}
 }
+</code></pre></div>
+
+  BibTeX:<br>
+ 
