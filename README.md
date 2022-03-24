@@ -36,7 +36,7 @@ You should follow the following steps:
   #### Citation
   If you are using our dataset, please cite us.<br>
   <br>
-  Sultani, W., Nawaz, W., Javed, S., Danish, M. S., Saadia, A., & Ali, M. (2021). Towards Low-Cost and Efficient Malaria Detection. arXiv preprint arXiv:2111.13656.
+  <i>Sultani, W., Nawaz, W., Javed, S., Danish, M. S., Saadia, A., & Ali, M. (2021). Towards Low-Cost and Efficient Malaria Detection. arXiv preprint arXiv:2111.13656.</i>
   <br>
   BibTeX:<br>
   @article{sultani2021towards,
