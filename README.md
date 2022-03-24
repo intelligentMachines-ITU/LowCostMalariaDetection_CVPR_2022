@@ -47,6 +47,4 @@ You should follow the following steps:
   year = {2021}
 }
 </code></pre></div>
-
-  BibTeX:<br>
  
