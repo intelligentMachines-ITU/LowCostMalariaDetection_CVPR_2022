@@ -34,8 +34,7 @@ You should follow the following steps:
   Just run all the cells and you will find the resultant images with plotted color coded boundary boxes in the results folder that you created. In case the code runs well and you don't see your resultant images in the results folder, check the paths variable again.
   
   #### Citation
-  If you are using our dataset, please cite us.<br>
-  <br>
+  If you are using our dataset, please cite this publication.<br>
   <i>Sultani, W., Nawaz, W., Javed, S., Danish, M. S., Saadia, A., & Ali, M. (2021). Towards Low-Cost and Efficient Malaria Detection. arXiv preprint arXiv:2111.13656.</i>
   <br>
   BibTeX:<br>
