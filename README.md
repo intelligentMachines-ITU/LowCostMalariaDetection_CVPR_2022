@@ -14,4 +14,4 @@ In the above link you should find M5_Dataset folder and in the folder you will f
   <li>Splits</li>
   <li>Annotations</li>
  </ul>
- You will find complete details in this file.
+ You will find complete details in <a href="https://github.com/intelligentMachines-ITU/LowCostMalariaDetection_CVPR_2022/blob/main/M5_Dataset_Contents.txt">this file</a>.
