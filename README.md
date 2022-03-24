@@ -35,6 +35,10 @@ You should follow the following steps:
   
   #### Citation
   If you are using our dataset, please cite us.<br>
+  <br>
+  Sultani, W., Nawaz, W., Javed, S., Danish, M. S., Saadia, A., & Ali, M. (2021). Towards Low-Cost and Efficient Malaria Detection. arXiv preprint arXiv:2111.13656.
+  <br>
+  Bibtex:<br>
   @article{sultani2021towards,
   title={Towards Low-Cost and Efficient Malaria Detection},
   author={Sultani, Waqas and Nawaz, Wajahat and Javed, Syed and Danish, Muhammad Sohail and Saadia, Asma and Ali, Mohsen},
