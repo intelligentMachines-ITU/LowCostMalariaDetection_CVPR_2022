@@ -1,0 +1,73 @@
+M5 Dataset contains two folders.
+* Images
+* Annotations
+
+1. Images:
+Images folder contains two folders, LCM and HCM. LCM conatains images captured by high cost microscope while HCM conatins images captured by low cost microscope. You will find images of the same region of thin blood smears across both LCM and HCM microscopes and along different magnifications(100x, 400x, 1000x) and the corresponding images have the same name.
+
+2. Annotations
+This folder contains annotations for HCM and LCM both separately placed in their corresponding subfolders.
+
+You will have the following content in the dataset:
+
+M5_Dataset
+	Annotations
+		HCM
+			test
+				100x
+				400x
+				1000x
+			train
+				100x
+				400x
+				1000x
+			val
+				100x
+				400x
+				1000x
+		LCM
+			test
+				100x
+				400x
+				1000x
+			train
+				100x
+				400x
+				1000x
+			val
+				100x
+				400x
+				1000x
+
+	Images
+		HCM
+			test
+				100x
+				400x
+				1000x
+			train
+				100x
+				400x
+				1000x
+			val
+				100x
+				400x
+				1000x
+		LCM
+			test
+				100x
+				400x
+				1000x
+			train
+				100x
+				400x
+				1000x
+			val
+				100x
+				400x
+				1000x
+
+	Splits
+		test.txt
+		train.txt
+		val.txt
