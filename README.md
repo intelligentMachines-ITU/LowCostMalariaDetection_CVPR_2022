@@ -55,6 +55,6 @@ You should follow the following steps:
 </code></pre></div>
  
 ## Contact
-waqas.sultani@itu.edu.pk
-mohsen.ali@itu.edu.pk
+waqas.sultani@itu.edu.pk,
+mohsen.ali@itu.edu.pk, 
 syed.javed@itu.edu.pk
