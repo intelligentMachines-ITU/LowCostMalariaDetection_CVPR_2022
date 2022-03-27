@@ -35,7 +35,7 @@ You should follow the following steps:
   <b><li>Choose sample images for visualization</li></b>
     You should pick some images from the dataset and their corresponding annotations. Remember that the images and their annotations have the same names with different extensions. Put the images and annotations in the folders that you just created.
   <b><li>Update the paths</li></b>
-  Update the paths in the "Plot_Annotationss.ipynb" file. You will find the path variables in the third cell of the notebook. Or if you are working with the python version, plot_annotationss.py, you will find the path variables on line number 72-74.
+  Update the paths in the "Plot_Annotationss.ipynb" file. You will find the path variables in the third cell of the notebook. Or if you are working with the .py version, plot_annotationss.py, you will find the path variables on line number 72-74.
   <b><li>Run All the Cells</li></b></ol>
   Just run all the cells and you will find the resultant images with plotted color coded boundary boxes in the results folder that you created. In case the code runs well and you don't see your resultant images in the results folder, check the paths variable again.
   
