@@ -1,12 +1,13 @@
 # Towards Low-Cost and Efficient Malaria Detection
 <b>Paper title:</b> Towards low-cost and efficient malaria detection.<br>
 <b>Paper accepted for: </b> CVPR 2022.<br>
-<b>Preprint</b> available <a href = "https://arxiv.org/pdf/2111.13656.pdf">here</a>.
+<b>Preprint</b> available <a href = "https://arxiv.org/pdf/2111.13656.pdf">here</a>.<br>
+<b>Dataset</b> [available](#dataset-details)
 
 In this project, we tried to make malaria detection easily possible at a low cost. We present M5-malaria Dataset which is the first-ever dataset that is across microscopes and across magnifications. Malaria, a fatal but curable disease claims hundreds of thousands of lives every year. Early and correct diagnosis is vital to avoid health complexities, however, it depends upon the availability of costly microscopes and trained experts to analyze blood-smear slides. Deep learning-based methods have the potential to not only decrease the burden of experts but also improve diagnostic accuracy on low-cost microscopes. However, this is hampered by the absence of a reasonable size dataset. One of the most challenging aspects is the reluctance of the experts to annotate the dataset at low magnification on low-cost microscopes. We present a dataset to further the research on malaria microscopy over the low-cost microscopes at low magnification. Our large-scale dataset consists of images of blood-smear slides from several malaria-infected patients, collected through microscopes at two different cost spectrums and multiple magnifications. Malarial cells are annotated for the localization and life-stage classification task.
 <br>
 <img src="sample image.jpg">
-## Dataset Details
+# Dataset Details
 M5-Malaria Dataset (Multi Micrscope Multi Magnification Malaria Dataset) contains 2x3x1257 Images containing malarial blood cells. We have 1257 images from thin blood smears and the same regions have been tracked and captured on three different magnifications of two different microscope. We captured the images using HCM (high cost microscope) on three magnifications (100x, 400x, 1000x) and then tracked and captured the same locations with LCM (Low cost microscope). The images are in .png format and annotations are in pascal_voc format. <b>If you need the COCO format of our dataset, feel free to drop us an email at syed.javed@itu.edu.pk.</b>
 
 ### Dataset Link
