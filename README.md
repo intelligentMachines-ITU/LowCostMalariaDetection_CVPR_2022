@@ -12,7 +12,7 @@ In this project, we tried to make malaria detection easily possible at a low cos
 M5-Malaria Dataset (Multi Micrscope Multi Magnification Malaria Dataset) contains 2x3x1257 Images containing malarial blood cells. We have 1257 images from thin blood smears and the same regions have been tracked and captured on three different magnifications of two different microscope. We captured the images using HCM (high cost microscope) on three magnifications (100x, 400x, 1000x) and then tracked and captured the same locations with LCM (Low cost microscope). The images are in .png format and annotations are in pascal_voc format. If you need the COCO format of our dataset, you can generate the coco format annotations using the file <a href="https://github.com/intelligentMachines-ITU/LowCostMalariaDetection_CVPR_2022/blob/main/pascalToCoco.py">PascalToCoco.py</a>.
 
 ### Dataset Link
-You can download our dataset from <a href="https://drive.google.com/drive/folders/1k2GuIu6obj3Nz--dOTLuwQnJ2qs1sXxE?usp=sharing" target = "_blank">here</a>. <br>
+You can download our dataset from <a href="[https://drive.google.com/drive/folders/1k2GuIu6obj3Nz--dOTLuwQnJ2qs1sXxE?usp=sharing](https://pern-my.sharepoint.com/personal/im_lab_itu_edu_pk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fim%5Flab%5Fitu%5Fedu%5Fpk%2FDocuments%2FM5%5Fdataset&ga=1)" target = "_blank">here</a>. <br>
 Total size of the dataset is 23GB. For ease in downloading, we have put it in smaller divisions that you will see in the link.
 
 ### Dataset Contents
